@@ -9,7 +9,11 @@ For example, a class called "Car" may have attributes such as color, model, and 
 In OOP, **objects** are **instances** of **classes**. When an object is created from a class, it has access to all the attributes and methods defined in the class. The process of creating an object from a class is called **instantiation**.
 
 Classes provide abstraction, encapsulation, inheritance, and polymorphism, which are the fundamental concepts of OOP. 
+
 Abstraction is the ability to hide complex implementations and only show the necessary details to the user. 
+
 Encapsulation is the process of hiding data and methods within a class to prevent unauthorized access. 
+
 Inheritance is the ability of a class to inherit attributes and methods from a parent or base class. 
+
 Polymorphism is the ability of objects to take on different forms or behaviors depending on the context in which they are used.
